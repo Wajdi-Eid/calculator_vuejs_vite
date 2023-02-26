@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  margin-top:200px ;
+ width: 100%;
+  background-color: grey;
+  
+  
+
+  
+}
+.input1 {
+  display: block;
+  margin-left: 27%;
+  margin-top: 10px;
+}
+label {
+ margin: 5px 5px 5px 5px;
+ color: darkslategray;
+}
+select{
+  margin-left: 650px;
+}
+
+span {
+  
+  font-family: cursive;
+  font-size: small;
+ margin-left: 15px;
+
+ 
+}
+.operation {
+  display: block;
+  margin-left: 173px;
+  margin-top: 7px;
+}
+.input2{
+  margin-left: 105px;
+  display: block;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+#app{
+  background-color: lightgray;
+ border-style: double;
+ border-color: black;
+ box-shadow: 3px 3px;
+ border-radius: 10px 10px;
+ width: 25%;
+ margin-left: 35%;
+}
+.operationn{
+  margin-left: 18px;
+  margin-bottom: 10px;
+}
+.resultt{
+  color: gray;
+}
+
